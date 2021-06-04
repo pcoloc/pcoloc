@@ -1,5 +1,5 @@
 ### ¡Bienvenido a mi GITHUB! 👋
-
+[![Visits Badge](https://badges.pufler.dev/visits/pcoloc/pcoloc)](https://badges.pufler.dev)
 <!--
 **pcoloc/pcoloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
