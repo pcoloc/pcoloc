@@ -1,4 +1,8 @@
 ### ¡Bienvenido a mi GITHUB! 👋
+
+![Paco's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcoloc&count_private=true&show_icons=true&theme=dark)
+
+
 [![Visits Badge](https://badges.pufler.dev/visits/pcoloc/pcoloc)](https://badges.pufler.dev)
 <!--
 **pcoloc/pcoloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
